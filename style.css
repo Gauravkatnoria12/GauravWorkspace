@@ -264,6 +264,7 @@
             text-transform: uppercase;
             letter-spacing: 2px;
             color: var(--accent-orange);
+            margin-top: 10px;
             margin-bottom: 20px;
             font-weight: 600;
         }
